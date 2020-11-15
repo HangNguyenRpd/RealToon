@@ -1,3 +1,6 @@
+
+
+BUILD INSTRUCTIONS:
 # Toon Shading project written in OpenGL 4.x and GLSL 430 core, use NGL 7
 
 # GUI built with Qt4
