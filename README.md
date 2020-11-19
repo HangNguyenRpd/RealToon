@@ -3,6 +3,8 @@
 
 RealToon emulates the hand-drawn feel composed of simple 2D animation shading and pencil scribbles, inspired by the artwork of (GOBELINS « LA CHINE A L’HONNEUR »)[https://vimeo.com/220870792].
 
+![alt text](https://github.com/HangNguyenRpd/RealToon/blob/main/images/Radio_ref.png)
+
 The program also provides a simple GUI that takes advantage of GPU to modify the camera and the object on the fly. Camera navigation is similar to that of Maya or a few other popular 3D software: roll middle mouse to zoom in and out, left mouse drag to rotate the camera, right mouse drag to move the camera relative to the object.
 
 #BUILD INSTRUCTIONS:
